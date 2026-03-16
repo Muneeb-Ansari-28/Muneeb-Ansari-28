@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Muneeb 
 
-<!--
-**Muneeb-Ansari-28/Muneeb-Ansari-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student · 💻 Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+CS student focused on software development and practical problem-solving. I build projects that challenge me to grow — from CLI tools to full-stack web apps. Driven by curiosity and a genuine interest in how things are built.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript, SQL  
+**Web:** HTML, CSS, JavaScript  
+**Database:** MySQL  
+**Tools:** Git, VS Code, Antigravity  
+
+---
+
+## 📂 Projects
+
+All projects are pinned below — but the best one so far:
+
+👉 [Muneeb-Ansari-28/Game-store](https://github.com/Muneeb-Ansari-28/Game-store)
+
+---
+
+## 🎯 Goal
+
+Become a skilled software developer by continuously building, shipping, and learning.
+
+---
+
+⭐ *Always learning. Always building.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Muneeb--Ansari--28-181717?style=flat&logo=github)](https://github.com/Muneeb-Ansari-28)
