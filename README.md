@@ -13,7 +13,7 @@ CS student focused on software development and practical problem-solving. I buil
 ## 🛠️ Tech Stack
 
 **Languages:** C++, Python, JavaScript, SQL  
-**Web:** HTML, CSS, JavaScript  
+**Web:** HTML, CSS, JavaScript, MERN stack
 **Database:** MySQL  
 **Tools:** Git, VS Code, Antigravity  
 
