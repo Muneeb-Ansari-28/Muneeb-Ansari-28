@@ -23,7 +23,7 @@ CS student focused on software development and practical problem-solving. I buil
 
 All projects are pinned below — but the best one so far:
 
-👉 [Muneeb-Ansari-28/Smart-Furniture-Shop](https://github.com/Muneeb-Ansari-28/Smart-Furniture-Shop.git)
+👉 [Muneeb-Ansari-28/Battle-City-1990](https://github.com/Muneeb-Ansari-28/Battle-City-1990.git)
 
 ---
 
