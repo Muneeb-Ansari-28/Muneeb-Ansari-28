@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-CS student focused on software development and practical problem-solving. I build projects that challenge me to grow — from CLI tools to full-stack web apps. Driven by curiosity and a genuine interest in how things are built.
+CS student focused on software development and practical problem-solving. I build projects that challenge me to grow - from CLI tools to full-stack web apps. Driven by curiosity and a genuine interest in how things are built.
 
 ---
 
@@ -21,7 +21,7 @@ CS student focused on software development and practical problem-solving. I buil
 
 ## 📂 Projects
 
-All projects are pinned below — but the best one so far:
+All projects are pinned below - but the best one so far:
 
 👉 [Muneeb-Ansari-28/Interview-Prep-Ai](https://github.com/Muneeb-Ansari-28/Interview-Prep-Ai.git)
 
